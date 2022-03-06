@@ -67,7 +67,7 @@
   </a>                                                                                                                &emsp;
 <a href="https://www.isocpp.org">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>                                                                                                               
+  </a>                                                                                                                &emsp; 
  <a href="#">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>                                                                                                                &emsp;                                                                                                                <a href="#">
@@ -78,18 +78,21 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>                                                                                                                
                                                                                                              </p>
+ 
                                                                                                              
-                                                                                                             
-                                                                                                             ### 🎨 Editing Softwares
-                                                                                                             <p align="left">
-                                                                                                             <a href="#">
+### 🎨 Editing Softwares
+
+<p align="left"> 
+  
+
+<a href="#">
     <img alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
   </a>                                                                                                                &emsp;
-                                                                                                             <a href="#">
-    <img alt="PREMIER" src="https://aleen42.github.io/badges/src/premiere.svg"/>
-  </a>                                                                                                                
-                                                                                                                 
-</p>
+<a href="#">
+    <img alt="CPREMIER" src="https://aleen42.github.io/badges/src/premiere.svg"/>
+  </a>                                                                                                               
+                                                                                                                                                                                                                  </p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 <!--
 ### 👉 Frameworks
 <p align="left"> 
