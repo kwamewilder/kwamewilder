@@ -7,7 +7,7 @@
  <img src="https://profile-counter.glitch.me/kwamewilder/count.svg"> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel+here!;I'm+a+Software+Engineering+Student...;I'm+also+an+Corporal+in+the+Ghana+Air+Force🇬🇭)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73613&duration=5011&multiline=true&width=602&height=97&lines=Hi%2C+Emmanuel+here!;I+am+a+Software+Engineering+student;I+am+also+a+Corporal+in+the+Ghana+Air+Force+%F0%9F%87%AC%F0%9F%87%AD)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kwamewilder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
