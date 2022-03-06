@@ -32,7 +32,7 @@
 
 <br>
 </p>
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kwamewilder&theme=gruvbox" alt="kwamewilder"  /></p>
@@ -75,7 +75,9 @@
   </a>                                                                                                                &emsp;                                                                                                             <a href="#">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>                                                                                                                &emsp;
+                                                                                                             </p>
                                                                                                              
+                                                                                                             <p>
                                                                                                              ### 👉 Editing Softwares
                                                                                                              <a href="#">
     <img alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
