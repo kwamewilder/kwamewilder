@@ -4,25 +4,19 @@
 
 ### Hi there 👋
 
-<!--- <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg"> % -->
+ <img src="https://profile-counter.glitch.me/kwamewilder/count.svg"> 
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/kwamewilder?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel here!;](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel here!;](https://git.io/typing-svg)]
 
 <img src="https://komarev.com/ghpvc/?username=kwamewilder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
--  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
+- 🔭 I am a final year student at Brigham Young Universty - Idaho
+- 🌱 I've served the Ghana Air Force for 10 years as an Air Traffic Controller whiles learning to code and devolop apps
+- - 🤔 I worked with the United Nations in Lebanon for a year as a digital creator
+- 👯 I’m looking to collaborate on projects within my specified skill set
 
 <p>Connect with me on
 <br>	
@@ -63,14 +57,6 @@
 <p align="left"> 
   
 
- <!-- <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp; 
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;-->
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
