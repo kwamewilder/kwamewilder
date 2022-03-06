@@ -11,6 +11,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=kwamewilder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
+<a target="_blank" href="https://kwamewilder.wixsite.com/website">Check out my Portfolio</a>
+
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I am a final year student at Brigham Young Universty - Idaho
@@ -85,7 +87,7 @@
   </a>                                                                                                                &emsp;
                                                                                                              <a href="#">
     <img alt="PREMIER" src="https://aleen42.github.io/badges/src/premiere.svg"/>
-  </a>                                                                                                                &emsp;
+  </a>                                                                                                                
                                                                                                                  
 </p>
 <!--
