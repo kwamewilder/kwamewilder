@@ -74,11 +74,12 @@
     <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>                                                                                                                &emsp;                                                                                                             <a href="#">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>                                                                                                                &emsp;
+  </a>                                                                                                                
                                                                                                              </p>
                                                                                                              
+                                                                                                             
+                                                                                                             ### 🎨 Editing Softwares
                                                                                                              <p>
-                                                                                                             ### 👉 Editing Softwares
                                                                                                              <a href="#">
     <img alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
   </a>                                                                                                                &emsp;
