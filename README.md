@@ -7,7 +7,7 @@
  <img src="https://profile-counter.glitch.me/kwamewilder/count.svg"> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel+here!;I'm+a+Software+Engineering+Student...;I'm+also+an+Corporal+in+the+Ghana+Air+Force🇬🇭)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kwamewilder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
