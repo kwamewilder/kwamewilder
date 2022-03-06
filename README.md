@@ -7,7 +7,7 @@
  <img src="https://profile-counter.glitch.me/kwamewilder/count.svg"> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73613&duration=5011&multiline=true&width=602&height=97&lines=Hi%2C+Emmanuel+here!;I+am+a+Software+Engineering+student;I+am+also+a+Corporal+in+the+Ghana+Air+Force+%F0%9F%87%AC%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73613&duration=5011&multiline=true&width=602&height=97&lines=Hi%2C+Emmanuel+here!;I+am+a+Software+Engineering+student;I+am+also+a+Corporal+in+the+Ghana+Air+Force+🇬🇭)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kwamewilder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -15,7 +15,7 @@
 
 - 🔭 I am a final year student at Brigham Young Universty - Idaho
 - 🌱 I've served the Ghana Air Force for 10 years as an Air Traffic Controller whiles learning to code and devolop apps
-- - 🤔 I worked with the United Nations in Lebanon for a year as a digital creator
+- 🤔 I worked with the United Nations in Lebanon for a year as a digital creator
 - 👯 I’m looking to collaborate on projects within my specified skill set
 
 <p>Connect with me on
