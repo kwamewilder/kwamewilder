@@ -81,7 +81,7 @@
                                                                                                              
                                                                                                              
                                                                                                              ### 🎨 Editing Softwares
-                                                                                                             <p>
+                                                                                                             <p align="left">
                                                                                                              <a href="#">
     <img alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
   </a>                                                                                                                &emsp;
