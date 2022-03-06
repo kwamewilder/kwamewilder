@@ -22,7 +22,7 @@
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/oheneba-ega/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:oheneba_ega@outlook.com.com"
+<a target="_blank" href="mailto:oheneba.ega@outlook.com.com"
 ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/kwame_wilder"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
@@ -62,8 +62,26 @@
 
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
- 
+  </a>                                                                                                                &emsp;
+<a href="https://www.isocpp.org">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>                                                                                                               
+ <a href="#">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>                                                                                                                &emsp;                                                                                                                <a href="#">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>                                                                                                                &emsp;                                                                                                              <a href="#">
+    <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  </a>                                                                                                                &emsp;                                                                                                             <a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>                                                                                                                &emsp;
+                                                                                                             <a href="#">
+    <img alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+  </a>                                                                                                                &emsp;
+                                                                                                             <a href="#">
+    <img alt="PREMIER" src="https://aleen42.github.io/badges/src/premiere.svg"/>
+  </a>                                                                                                                &emsp;
+                                                                                                                 
 </p>
 <!--
 ### 👉 Frameworks
