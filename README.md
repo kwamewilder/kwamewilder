@@ -7,7 +7,7 @@
  <img src="https://profile-counter.glitch.me/kwamewilder/count.svg"> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel here!;](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+Emmanuel here!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kwamewilder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -20,7 +20,7 @@
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/oheneba.ega/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/oheneba-ega/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:kwame.wilder@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
