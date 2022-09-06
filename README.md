@@ -16,7 +16,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I am a final year student at Brigham Young Universty - Idaho
-- 🌱 I've served the Ghana Air Force for 10 years as an Air Traffic Controller whiles learning to code and devolop apps
+- 🌱 I've served the Ghana Air Force for 11 years as an Air Traffic Controller whiles learning to code and devolop apps
 - 🤔 I worked with the United Nations in Lebanon for a year as a digital creator
 - 👯 I’m looking to collaborate on projects within my specified skill set
 
