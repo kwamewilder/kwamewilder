@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T09:17:48.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" version="20.8.5" etag="qUkAcry1LKqq_oy_Y2-o" type="github"><diagram id="KohMFr3rbVHl2vh7cBSj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-18T09:52:24.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" version="20.8.5" etag="uoolyBXCjreni7xXEidD" type="github">
+  <diagram id="xnIebUYvyat4f43hrhkC" name="Page-1">
+    <mxGraphModel dx="425" dy="778" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uwYGnNImbnnY_io6OZPD-2" value="Desk" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="130" width="140" height="180" as="geometry">
+            <mxRectangle x="30" y="130" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-8" value="+SurfaceMaterial: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-3" value="+Width:float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-4" value="+Depth: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-2">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-5" value="+numDrawers: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-2">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uwYGnNImbnnY_io6OZPD-2" target="uwYGnNImbnnY_io6OZPD-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="150" as="sourcePoint" />
+            <mxPoint x="80" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-16" value="DeskArea()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-2">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-10" value="DeskQuote" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="200" height="180" as="geometry">
+            <mxRectangle x="30" y="130" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-9" value="+RushOrder: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-10">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-11" value="+CustomerFullName: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-10">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-12" value="+QuotePrice: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-10">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-13" value="+QuoteDate: Date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-10">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-19" value="" style="endArrow=none;html=1;rounded=0;entryX=1.005;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uwYGnNImbnnY_io6OZPD-10" target="uwYGnNImbnnY_io6OZPD-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="150" as="sourcePoint" />
+            <mxPoint x="70" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-17" value="CalculatePrice()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uwYGnNImbnnY_io6OZPD-10">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwYGnNImbnnY_io6OZPD-20" value="Pseudo code&lt;br&gt;Calculate desk surface area (width * height)&lt;br&gt; SET baseDeskPrice -&amp;gt; $200&lt;br&gt; SET Drawers-&amp;gt; $50 &lt;br&gt; If surface area is greater than 1000 square inches, add $1 per each square inch and $ 50 additional &lt;br&gt;drawer.&lt;br&gt;If surface material is oak, laminate, pine, rosewood, and veneer add respectively to the desk’s price the &lt;br&gt;following price $200, $100, $50, $300, and $125.&lt;br&gt;If production days is less than 14 &lt;br&gt;If the surface area is less than 100, increase the price based on the production days to the following:&lt;br&gt;3 day -&amp;gt; 460&lt;br/&gt;5 day -&amp;gt; $40&lt;br/&gt;7 day -&amp;gt; $30&lt;br/&gt;If the surface area is greater or equals to 1000 and equals or less than 2000, increase the price on &lt;br/&gt;production days.&lt;br/&gt;3 day-&amp;gt; $70&lt;br/&gt;5 day-&amp;gt; $50&lt;br/&gt;7 day -&amp;gt; $35&lt;br/&gt;If the surface area is greater than 2000, increase the price on the production days&lt;br/&gt;3 day-&amp;gt; $80&lt;br/&gt;5 day-&amp;gt; $60&lt;br/&gt;7 day-&amp;gt; $40" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="520" width="680" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
